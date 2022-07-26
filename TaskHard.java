@@ -8,7 +8,6 @@ public class TaskHard {
         Scanner sc = new Scanner(System.in);
 
 
-
         try {
             String operator = sc.nextLine();
             int a = sc.nextInt(), b = sc.nextInt();
@@ -29,9 +28,6 @@ public class TaskHard {
 
             System.out.println("Произошла недопустимая арифметическая операция");
         }
-
-
-
 
 
     }
